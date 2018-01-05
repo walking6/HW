@@ -17,7 +17,7 @@ botStart = time.time()
 #cl.loginResult()
 
 cl = HelloWorld.LINE()
-cl.login(token="AuthToken")
+cl.login(token="Eov1SpnG44JIsZ4NVPg3.nBT543FxoLpZYt29i8ceSW.Iv95AOM9S26wrzPIJbMIu3eRL22kx/ZEpJS546zd/Gg=")
 cl.loginResult()
 
 print "=============[Login Success]============="
